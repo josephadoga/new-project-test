@@ -1,3 +1,5 @@
 'use strict';
 
-let message = 'Hello Git';
+let message = 'Hello world';
+
+let num = 10;
